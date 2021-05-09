@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_boots"
+  },
+  "addition": {
+    "item": "iafeinvisiblearms:invisible_ingot"
+  },
+  "result": {
+    "item": "iafeinvisiblearms:invisible_diamond_boots"
+  }
+}

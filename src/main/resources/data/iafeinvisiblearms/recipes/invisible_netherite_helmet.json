@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_helmet"
+  },
+  "addition": {
+    "item": "iafeinvisiblearms:invisible_ingot"
+  },
+  "result": {
+    "item": "iafeinvisiblearms:invisible_netherite_helmet"
+  }
+}

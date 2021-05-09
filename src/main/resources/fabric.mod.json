@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "iafeinvisiblearms",
+  "version": "${version}",
+  "name": "IAFEInvisibleArms",
+  "description": "Are you worry about wearing arms when you have invisibility effect? This mod will help you!",
+  "authors": [
+    "IAFEnvoy"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/iafeinvisiblearms/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "iafeinvisiblearms.iafeinvisiblearms"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+    "iafeinvisiblearms.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*"
+  }
+}

@@ -1,0 +1,13 @@
+{
+	"itemGroup.iafeinvisiblearms.core" = "隐形盔甲",
+	"item.iafeinvisiblearms.invisible_ingot" = "隐形锭",
+	"item.iafeinvisiblearms.invisible_diamond_helmet" = "隐形钻石头盔",
+	"item.iafeinvisiblearms.invisible_diamond_chestplate" = "隐形钻石胸甲",
+	"item.iafeinvisiblearms.invisible_diamond_leggings" = "隐形钻石护腿",
+	"item.iafeinvisiblearms.invisible_diamond_boots" = "隐形钻石靴子",
+	"item.iafeinvisiblearms.invisible_netherite_helmet" = "隐形下界合金头盔",
+	"item.iafeinvisiblearms.invisible_netherite_chestplate" = "隐形下界合金胸甲",
+	"item.iafeinvisiblearms.invisible_netherite_leggings" = "隐形下界合金护腿",
+	"item.iafeinvisiblearms.invisible_netherite_boots" = "隐形下界合金靴子"
+	
+}
