@@ -1,0 +1,13 @@
+{
+	"itemGroup.iafeinvisiblearms.core" = "Invisible Arms",
+	"item.iafeinvisiblearms.invisible_ingot" = "invisible ingot",
+	"item.iafeinvisiblearms.invisible_diamond_helmet" = "invisible diamond helmet",
+	"item.iafeinvisiblearms.invisible_diamond_chestplate" = "invisible diamond chestplate",
+	"item.iafeinvisiblearms.invisible_diamond_leggings" = "invisible diamond leggings",
+	"item.iafeinvisiblearms.invisible_diamond_boots" = "invisible diamond boots",
+	"item.iafeinvisiblearms.invisible_netherite_helmet" = "invisible netherite helmet",
+	"item.iafeinvisiblearms.invisible_netherite_chestplate" = "invisible netherite chestplate",
+	"item.iafeinvisiblearms.invisible_netherite_leggings" = "invisible netherite leggings",
+	"item.iafeinvisiblearms.invisible_netherite_boots" = "invisible netherite boots"
+	
+}
